@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-14T12:52:16 EDT" name="Default suite" finished-at="2023-08-14T12:52:37 EDT" duration-ms="20443">
+  <suite started-at="2023-09-04T19:18:38 EDT" name="Default suite" finished-at="2023-09-04T19:19:40 EDT" duration-ms="61871">
     <groups>
     </groups>
-    <test started-at="2023-08-14T12:52:16 EDT" name="Default test" finished-at="2023-08-14T12:52:37 EDT" duration-ms="20443">
+    <test started-at="2023-09-04T19:18:38 EDT" name="Default test" finished-at="2023-09-04T19:19:40 EDT" duration-ms="61871">
       <class name="project.DemoTestNG">
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:project.DemoTestNG@6340e5f0]" started-at="2023-08-14T12:52:17 EDT" name="beforeMethod" finished-at="2023-08-14T12:52:17 EDT" duration-ms="13" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:project.DemoTestNG@2a7f1f10]" started-at="2023-09-04T19:18:38 EDT" name="beforeMethod" finished-at="2023-09-04T19:18:38 EDT" duration-ms="18" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:project.DemoTestNG@6340e5f0]" started-at="2023-08-14T12:52:17 EDT" name="setup" finished-at="2023-08-14T12:52:22 EDT" duration-ms="5898" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:project.DemoTestNG@2a7f1f10]" started-at="2023-09-04T19:18:38 EDT" name="setup" finished-at="2023-09-04T19:18:48 EDT" duration-ms="9304" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test()[pri:0, instance:project.DemoTestNG@6340e5f0]" started-at="2023-08-14T12:52:22 EDT" name="test" finished-at="2023-08-14T12:52:36 EDT" duration-ms="13518" status="PASS">
+        <test-method signature="test()[pri:0, instance:project.DemoTestNG@2a7f1f10]" started-at="2023-09-04T19:18:48 EDT" name="test" finished-at="2023-09-04T19:19:35 EDT" duration-ms="47074" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:project.DemoTestNG@6340e5f0]" started-at="2023-08-14T12:52:36 EDT" name="afterMethod" finished-at="2023-08-14T12:52:37 EDT" duration-ms="910" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:project.DemoTestNG@2a7f1f10]" started-at="2023-09-04T19:19:35 EDT" name="afterMethod" finished-at="2023-09-04T19:19:40 EDT" duration-ms="5357" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
